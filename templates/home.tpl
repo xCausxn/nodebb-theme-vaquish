@@ -41,21 +41,6 @@
 		</div>
 
 		<div class="panel panel-default">
-			<div class="panel-heading">Advertisements</div>
-			<div class="panel-body">
-				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<!-- FanG Sniping larger -->
-					<ins class="adsbygoogle"
-  					   style="display:inline-block;width:250px;height:250px"
- 					    data-ad-client="ca-pub-8517283293352447"
-  					   data-ad-slot="7743361307"></ins>
-					<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div>
-		</div>
-
-		<div class="panel panel-default">
 			<div class="panel-heading">Forum Stats</div>
 			<div class="panel-body">
 				<div class="row footer-stats">
