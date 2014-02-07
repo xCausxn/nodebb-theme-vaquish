@@ -1,0 +1,36 @@
+{
+  "name": "Vanquish Theme for NodeBB By xCausxn",
+  "version": "1",
+  "description": "A light grey, with GFX background with more features to come :)",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xCausxn/nodebb-theme-vaquish"
+  },
+  "keywords": [
+    "nodebb",
+    "vanquish",
+    "theme",
+    "themes"
+  ],
+  "author": {
+    "name": "xCausxn",
+    "email": "xCausxn@hotmail.co.uk"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/xCausxn/nodebb-theme-vaquish/issues"
+  },
+  "peerDependencies": {
+    "nodebb-theme-vanilla": "~0.0.13"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/xCausxn/nodebb-theme-vaquish",
+  "_id": "nodebb-theme-vanquish@1",
+  "dist": {
+    "shasum": "52b211b4c0fbb03fb4a63e42346bc2959ff2ca7c"
+  },
+  "_from": "nodebb-theme-lavender@~0.0",
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-lavender/-/nodebb-theme-lavender-0.0.20-2.tgz"
+}

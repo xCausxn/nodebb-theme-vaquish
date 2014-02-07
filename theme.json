@@ -1,0 +1,9 @@
+{
+    "id": "nodebb-theme-vanquish",
+    "name": "Vanquish Theme for NodeBB By xCausxn",
+    "description": "A light grey, with GFX background with more features to come :)",
+    "url": "https://github.com/xCausxn/nodebb-theme-vaquish",
+    "screenshot": null,
+    "templates": "templates",
+    "staticDir": "static"
+}
